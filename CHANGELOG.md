@@ -12,7 +12,7 @@ handle (ignore) additional flag TradedOnLTSE in master file
 https://www.nyse.com/publicdocs/nyse/data/Daily_TAQ_Client_Spec_v3.2.pdf
 
 ### 2018.10.05
-small changes to field load types (mostly just wider) - see before/after
+small changes to field load types - see before/after
 versions of nf2, tf2, qf2
 
 ### 2017.10.27 (version 3.0 - jump in version number to sync with NYSE daily taq version 3.0b)
